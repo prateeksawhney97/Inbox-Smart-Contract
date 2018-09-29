@@ -18,6 +18,6 @@ inbox = await new web3.eth.Contract(JSON.parse(interface))
 
 describe('Inbox', ()=> {
   it('deploys a contract', ()=>{
-    console.log(inbox);
+    assert.ok(inbox.options.address);
   });
 });
