@@ -5,5 +5,5 @@ A simple Inbox Smart Contract which is an entry-level project on Udemy's online 
 
 A simple smart-contract in Ethereum which contains a message which everyone can change and retrieve.
 
-Testing using Mocha in test directory, and used Ganache network for testing.
+Testing using Mocha in test directory, and used Ganache network for testing purpose.
 Deployment on Rinkeby Ethereum Network using truffle-hdwallet-provider and Infura API to access their nodes in public Ethereum network.
